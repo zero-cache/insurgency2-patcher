@@ -37,9 +37,13 @@ And finally, open the binary
 ## Usage
 
 ![App Screenshot](https://github.com/zero-cache/insurgency2-patcher/blob/main/github/image.png)
+
 Press the "Choose Path" button and navigate into your Insurgency folder (no sub-directory!)
+
 ![App Screenshot](https://github.com/zero-cache/insurgency2-patcher/blob/main/github/image2.png)
+
 ..or manually input the path in the box (plain text)
+
 ![App Screenshot](https://github.com/zero-cache/insurgency2-patcher/blob/main/github/image3.png)
 
 After the preparation is done, you can proceed to patch your installation using the "Patch" or "Open CLI" buttons.
