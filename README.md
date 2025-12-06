@@ -6,7 +6,7 @@ A lightweight patcher tool used to fix issues with Insurgency on modern operatin
 
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/zero-cache/insurgency2-patcher/blob/main/github/shitlogo.png)
 
 
 ## Check out the video guide!
