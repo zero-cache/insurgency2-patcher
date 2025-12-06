@@ -16,7 +16,7 @@ A lightweight patcher tool used to fix issues with Insurgency on modern operatin
 
 ## Installation
 
-Check out the pre-built .exe binary in releases!
+Check out the pre-built .exe binary in releases! [Releases](https://github.com/zero-cache/insurgency2-patcher/releases/)
 * Continue to Usage section..
 
 ## Manual Installation
@@ -36,11 +36,11 @@ And finally, open the binary
 * Continue to Usage section..
 ## Usage
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/zero-cache/insurgency2-patcher/blob/main/github/image.png)
 Press the "Choose Path" button and navigate into your Insurgency folder (no sub-directory!)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/zero-cache/insurgency2-patcher/blob/main/github/image2.png)
 ..or manually input the path in the box (plain text)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/zero-cache/insurgency2-patcher/blob/main/github/image3.png)
 
 After the preparation is done, you can proceed to patch your installation using the "Patch" or "Open CLI" buttons.
 ### What is the difference?
